@@ -1,2 +1,2 @@
-# javascript2
-asd
+# Final Project for JavaScript 1
+Hello Hi!
