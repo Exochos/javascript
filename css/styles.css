@@ -1,1 +1,10 @@
 
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+container {
+  display: grid;
+  justify-content: space-around;
+}
